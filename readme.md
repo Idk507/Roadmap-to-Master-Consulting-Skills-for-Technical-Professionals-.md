@@ -1,5 +1,6 @@
 
 ### 🎯 Focus Areas Beyond Technical:
+<img width="1146" height="765" alt="image" src="https://github.com/user-attachments/assets/801f44d1-db19-4b17-895d-fc6503a3b23f" />
 
 1. **Consulting & Client Engagement**
 2. **Solution Design & Business Translation**
